@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-mistralai
+langchain-core
+langchain-community
+tavily-python
+python-dotenv
+typing-extensions
